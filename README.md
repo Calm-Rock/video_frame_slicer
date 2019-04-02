@@ -8,5 +8,9 @@ Here's a solution, just feed in your video in the above notebook code and you wi
 
 Modifications to work on: <br>
 - Improve the code to take time durations as input, so as to, just get frames for that time duration.
-- Make a GUI for the above task and possibly to make a trackbar sort of GUI (Just like whn you trim a video in a video player)
+- Make a GUI for the above task and possibly to make a trackbar sort of GUI (Just like when you trim a video in a video player)
 - Use these images(each frame form the video) along with bounding box cordinates of objects(detected via some algorithm) to train a neural network
+
+<br>
+<br>
+Just check out the python notebook if you're a Reddit or 9gag fan :D
